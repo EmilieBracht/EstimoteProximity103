@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EstimoteProximity103</string>
+    <string name="design_build_projekt">Design build projekt</string>
+    <string name="en_app_til_hospitalernes_b_rneafdelinger">En app til hospitalernes børneafdelinger</string>
+    <string name="b_rne_appen">Børne appen</string>
+    <string name="klik_her">klik her</string>
+    <string name="todo">TODO</string>
+    <string name="hello_i_am_a_textview">Hello, I am a TextView</string>
+    <string name="hello_i_am_a_button">Hello, I am a Button</string>
+    <string name="my_button_text" />
+</resources>
